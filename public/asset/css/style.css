@@ -1,0 +1,11 @@
+@media only screen and (max-width: 768px) {
+
+    #dataTable_length, #dataTable_filter, #dataTables_info {
+        text-align: left !important;
+    }
+
+    .table-responsive .col-md-6 {
+        padding-left: 0 !important;
+    }
+
+}
